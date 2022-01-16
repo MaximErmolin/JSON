@@ -1,5 +1,4 @@
-"навыки": 
-  
+{
 [{
 
 
@@ -16,8 +15,4 @@
 
 
 }]
-
-git add sklls.json preferences.json
-git add sklls.json preferences.json
-
-
+}
